@@ -1,5 +1,4 @@
-#include <stddef.h>
-#include <stdio.h>
+#pragma once
 
 //  generate_words : écrit sur la sortie standard nb_words, de longueur
 //      minimale min_len et de longueur maximale max_len, sur l'alphabet

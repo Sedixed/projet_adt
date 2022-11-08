@@ -1,5 +1,4 @@
-#include <stddef.h>
-#include <stdio.h>
+#pragma once
 
 //  generate_text : écrit sur la sortie standard un texte de textSize caractères sur l'alphabet
 //    de taille alphabet_size.
