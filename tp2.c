@@ -1,3 +1,5 @@
+// A PRIORI ON EN AURA PAS BESOIN MAIS JE L'AI MIT AU CAS OU
+
 #include "tp2.h"
 #include "utils.h"
 #include <stdlib.h>

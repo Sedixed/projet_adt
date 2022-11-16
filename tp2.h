@@ -1,3 +1,6 @@
+// A PRIORI ON EN AURA PAS BESOIN MAIS JE L'AI MIT AU CAS OU
+
+
 #ifndef H__TRIE
 #define H__TRIE
 
